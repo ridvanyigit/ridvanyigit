@@ -6,7 +6,7 @@ About Me
 - 👀 I specialize in statistics, probability, and AI technologies.
 - 🌱 Currently expanding my expertise in deep learning and advanced AI methodologies.
 - 💞️ Open to collaborations focused on knowledge exchange and innovative projects.
-- 📫 Connect with me on : https://www.linkedin.com/in/ridvan-yigit-5494842b6/
+- 📫 Connect with me on : LinkedIn.
 
 Projects & Contributions
 
