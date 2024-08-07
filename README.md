@@ -7,6 +7,7 @@ About Me
 - 🌱 Currently expanding my expertise in deep learning and advanced AI methodologies.
 - 💞️ Open to collaborations focused on knowledge exchange and innovative projects.
 - 📫 Connect with me on : [LinkedIn.](https://www.linkedin.com/in/ridvan-yigit-5494842b6/)
+- 👀 https://ridvanyigit.wordpress.com
 
 Projects & Contributions
 
