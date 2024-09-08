@@ -8,7 +8,7 @@ About Me
 - 💞️ Open to collaborations focused on knowledge exchange and innovative projects.
 - 📫 Connect with me on : [LinkedIn.](https://www.linkedin.com/in/ridvan-yigit-5494842b6/)
 - 👀 https://ridvanyigit.wordpress.com
-- twitter : RidvanWien
+- twitter : RidvanVienna
 
 
 Projects & Contributions
