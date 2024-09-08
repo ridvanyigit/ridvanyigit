@@ -9,6 +9,8 @@ About Me
 - 📫 Connect with me on : [LinkedIn.](https://www.linkedin.com/in/ridvan-yigit-5494842b6/)
 - 👀 https://ridvanyigit.wordpress.com
 - twitter : RidvanWien
+
+
 Projects & Contributions
 
 I am passionate about contributing to open-source projects and sharing insights on data science and AI. Feel free to explore my repositories and engage with my work.
