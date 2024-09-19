@@ -13,4 +13,4 @@
 
 ## Projects & Contributions
 
-### I am passionate about contributing to open-source projects and sharing insights on data science and AI. Feel free to explore my repositories and engage with my work.
+*I am passionate about contributing to open-source projects and sharing insights on data science and AI. Feel free to explore my repositories and engage with my work.*
